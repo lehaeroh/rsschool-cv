@@ -7,8 +7,10 @@ _Junior Frontend Developer_
 
 - Phone: +79858216869
 - E-mail: alekseyeroh@gmail.com
+- Discord: lehaeroh
 - Telegram: [alekseyeroh](https://t.me/alekseyeroh)
 - GitHub: [lehaeroh](https://github.com/lehaeroh)
+
 
 ---
 
@@ -76,9 +78,13 @@ Faculty of TECHNICAL OPERATION OF AUTOMOBILES, Minsk (2012-2018)
 
 ## **PROJECTS:**
 
+* [Shelter](https://rolling-scopes-school.github.io/lehaeroh-JSFE2023Q1/shelter/pages/main/)
+
 * [Momentum](https://rolling-scopes-school.github.io/lehaeroh-JSFEPRESCHOOL2022Q4/momentum/)
 
 * [Plants](https://rolling-scopes-school.github.io/lehaeroh-JSFEPRESCHOOL2022Q4/plants/)
+
+* [cssBayan](https://lehaeroh.github.io/cssBayan/cssBayan/index.html)
 
 * [Denis Novik Portfolio](https://lehaeroh.github.io/Denis_Novik_Portfolio_site/)
 
