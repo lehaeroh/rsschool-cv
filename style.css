@@ -1,15 +1,8 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin: 0;
-}
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -18,12 +11,13 @@ html {
 }
 
 body {
-  display: flex;
+  /* display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 100vh; */
   background-color: #fff;
   font-size: 18px;
+  overflow-x: hidden;
 }
 
 /*Container*/
@@ -32,10 +26,9 @@ body {
   width: 100%;
   max-width: 1440px;
   min-height: 1000px;
-  margin: 50px;
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
-
   box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
 }
 
@@ -51,6 +44,7 @@ body {
 }
 .nav__links {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding-left: 40px;
   padding-right: 40px;
