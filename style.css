@@ -449,6 +449,7 @@ transition: all 1s;
 
 .diagram {
   justify-self: center;
+  list-style: none;
 }
 
 .newDiagram {
@@ -608,4 +609,9 @@ transition: all 0.3s;
   text-align: center;
   padding: 20px;
   color: #fff;
+}
+
+.copyright__title {
+  font-size: 18px;
+  font-weight: 400;
 }
