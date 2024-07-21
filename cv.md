@@ -31,7 +31,17 @@ I am 29 years old. I am a creative, communicative, organised and confident futur
 
 ## **CODE EXAMPLE:**
 
-
+```
+function sum (number, numberOfPower) {
+  let a = 1;
+  let result = 0;
+    for (let i = 0; i <= numberOfPower; i++) {
+       result += a;
+       a *= number;
+    }
+  return result;
+}
+```
 
 ---
 
